@@ -123,3 +123,9 @@ This project classifies ECG heartbeats from the MIT-BIH Arrhythmia Database usin
 
 ## License
 MIT License.
+
+---
+
+## 👤 Author
+
+**Sparsh Agarwal** — [GitHub](https://github.com/sparsh0106) · [LinkedIn](https://www.linkedin.com/in/sparsh-agarwal-4b443b304/)
